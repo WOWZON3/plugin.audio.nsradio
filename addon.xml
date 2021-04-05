@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.nsradio" name="[COLOR red]NS [COLOR white]Webradio[/COLOR]" version="1.3.8" provider-name="[COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+       <summary>NS Webradio ohne Zensur</summary>
+        <description lang="de_DE">Eine ständig wachsende Bibliothek bester Rechtsrock Musik. Bitte bleibt trotz unseres angebotes Fair und unterstützt die Bands durch Kauf ihrer Alben. Besucht dafür die Web Shops von PC-Records oder Opos-Records.</description>
+  <disclaimer lang="de_DE">Gutmenschen Aufgepasst! Die Lyric der hier angebotenen Musik kann zu schweren Schäden am Büßerkult und der Ersatzreligion von alleiniger Schuld nachsich ziehen. Deutsche, seid Stolz!</disclaimer>
+        <platform>all</platform>
+        <language>de</language>
+        <license></license>
+        <website>http://nsradio.sytes.net</website>
+        <source>http://github.com/RAConquista/plugin.audio.nsradio/</source>
+        <email>hasslock@nsmleader.heil</email>
+    </extension>
+</addon>
